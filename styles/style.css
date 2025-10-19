@@ -1,0 +1,57 @@
+/* Custom CSS for the portfolio website */
+
+/* General styles */
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header styles */
+h1 {
+    color: #2b3467;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+/* Sidebar styles */
+.css-1d391kg {
+    padding: 2rem 1rem;
+}
+
+/* Card styles */
+.stMarkdown div {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+}
+
+/* Social media icons */
+.social-icons img {
+    width: 32px;
+    height: 32px;
+    margin: 0 10px;
+}
+
+/* Project cards */
+.project-card {
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+/* Contact form */
+.contact-form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f9fa;
+}

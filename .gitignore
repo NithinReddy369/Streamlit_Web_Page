@@ -1,0 +1,55 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlt
+*.xltx
+*.xltm
+
+# CSV files
+*.csv
+*.tsv
+
+# PDF files
+*.pdf
+
+# SQL files
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
